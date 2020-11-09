@@ -1,5 +1,5 @@
 ## INTRODUCCIÓN
----
+
 ### ¿QUÉ APRENDEREMOS?
 
 En esta unidad formativa **aprenderemo**s:
@@ -29,6 +29,5 @@ Existen 3 tipos de software:
 **Código objeto** (intermedio): archivo binario no ejecutable.
 **Código ejecutable**: archivo binario ejecutable.
 
----
+
 ## CICLO DE VIDA DEL SOFTWARE
----
