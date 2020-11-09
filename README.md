@@ -4,7 +4,7 @@ Apuntes de la unidad formativa 1 del módulo 5 de DAM.
      APUNTS UF1                                                                      Córcoles Pérez, Alejandro
                                                                                     M5 - Entornos de desarrollo
 ---
-# INTRODUCCIÓN
+## INTRODUCCIÓN
 ---
 ### ¿QUÉ APRENDEREMOS?
 
@@ -36,6 +36,6 @@ Existen 3 tipos de software:
 **Código ejecutable**: archivo binario ejecutable.
 
 ---
-# CICLO DE VIDA DEL SOFTWARE
+## CICLO DE VIDA DEL SOFTWARE
 ---
 
