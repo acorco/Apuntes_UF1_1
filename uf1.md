@@ -25,7 +25,7 @@ Existen 3 tipos de software:
 
 #### TIPOS DE CÓDIGO
 
-**Código fuente**: archivo de texto legible escrito en un lenguaje de programación.
+**Código fuente**: archivo de texto legible escrito en un lenguaje de programación.   
 **Código objeto** (intermedio): archivo binario no ejecutable.
 **Código ejecutable**: archivo binario ejecutable.
 
