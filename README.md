@@ -34,6 +34,7 @@ Existen 3 tipos de software:
 **Código fuente**: archivo de texto legible escrito en un lenguaje de programación.
 **Código objeto** (intermedio): archivo binario no ejecutable.
 **Código ejecutable**: archivo binario ejecutable.
+
 ---
 # CICLO DE VIDA DEL SOFTWARE
 ---
