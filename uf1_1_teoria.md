@@ -2,7 +2,7 @@
 
 #### ¿QUÉ APRENDEREMOS?
 
-En esta unidad formativa **aprenderemo**s:
+En esta unidad formativa **aprenderemos**:
     - Qué relación hay entre un programa y el sistema informático
     - Tipos de códigos que hay
     - Fases de desarrollo de una aplicación
@@ -18,7 +18,7 @@ Existen 3 tipos de software:
 
 #### RELACIÓN HARDWARE-SOFTWARE
 
-- **Disco duro**: almacena de forma permanente los archivos ejecutables y los archivos de datos.
+- **Disco duro**: almacena datos y archivos en la máquina.
 - **Memoria RAM**: almacena de forma temporal el código binario de los archivos ejecutables y los archivos de datos necesarios.
 - **CPU**: lee y ejecuta instrucciones almacenadas en memoria RAM, así como los datos necesarios.
 - **E/S**: recoge nuevos datos desde la entrada, se muestran los resultados, se leen/guardan a disco, ...
