@@ -62,3 +62,15 @@ Hay 4 tipos de mantenimiento:
 - Evolutivo
 - Adaptativo
 
+#### MODELOS DE DESARROLLO DE SOFTWARE
+
+Hay 3 tipos de modelos de desarrollo:
+- Modelos clásicos: Estos incluyen dos submodelos, el modelo en cascada y el modelo en V. 
+    **El modelo en cascada** consiste en en ir desarrollando fase por fase y hasta que una fase   
+    no esté terminada y aprobada no se puede avanzar a la siguiente.
+    
+    **El modelo en V** en un modelo jerárquico donde se va validando cada fase a la vez que se desarrolla.
+- Modelo de construcción de prototipos 
+    Este modelo consiste en no planificar nada, es decir, es crea un prototipo durante la fase de análisis y se le presenta el usuario. El usuario decide si   
+    el proyecto sigue adelante o si se tiene que descartar dicho prototipo.
+- Modelos evolutivos o incrementales: Estos incliyuen dos submodelos también, el modelo en espiral y metodologías ágiles. 
